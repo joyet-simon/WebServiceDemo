@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WebServiceDemo</string>
+    <string name="tout">Tout</string>
+    <string name="par_code">Par code</string>
+    <string name="nom_du_pays">Nom du pays:</string>
+    <string name="liste_compl_te_des_pays">Liste complète des pays:</string>
+</resources>
